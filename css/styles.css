@@ -1,1 +1,18 @@
+body{background-color:#F3C5C5;}
+hr {background-color:inherit;
 
+   border-style:none;
+   border-top-style:dotted;
+   border-color:#2F3A8F;
+   border-width:10px;
+   width: 5%;
+ }
+ img{height:200px;
+     width:200px;}
+h3{
+   color:#323232;
+   font-family: cursive;
+}
+h1{
+  color:#323232;
+}
